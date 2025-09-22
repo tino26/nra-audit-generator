@@ -1,5 +1,5 @@
 {
-  "name": "escapeboy/nra-audit-generator",
+  "name": "tino26/nra-audit-generator",
   "description": "NRA Orders Audit XML File Generator",
   "type": "library",
   "license": "MIT",
